@@ -1,6 +1,7 @@
 ### Hi there :cowboy_hat_face:
 
-### I am Yeoh Chong Yi, a first year student studying Computer Science (Data Engineering) at UTM. I am currently on my second semester.
+### I am Yeoh Chong Yi 
+#### :books: I am a first year student studying Computer Science (Data Engineering) at UTM. I am currently on my second semester.
 
 #### Course: Software Engineering (WBL) 
 
